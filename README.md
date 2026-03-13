@@ -1,6 +1,6 @@
 
 
-# 2) 📂 PyGen Flux
+#  📂 PyGen Flux
 Automated bulk file and folder creator with custom naming and date stamping.
 
 ### 🛠️ Requirements
