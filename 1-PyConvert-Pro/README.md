@@ -1,4 +1,4 @@
-⚡ PyConvert Pro
+### ⚡ PyConvert Pro
 Simple GUI tool to convert Python scripts (.py) into standalone Executables (.exe).
 
 ### 🛠️ Requirements
