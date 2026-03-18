@@ -129,4 +129,14 @@ convert_btn.pack(pady=10)
 status_label = tk.Label(root, text="System Ready", fg="#00FFC8", bg="#121212", font=("Poppins", 9))
 status_label.pack(side="bottom", pady=20)
 
+# --- Footer Branding ---
+footer_frame = tk.Frame(root, bg="#121212")
+footer_frame.pack(side="bottom", pady=10)
+
+tk.Label(footer_frame, text="Developed by Alven Alex (Pradeep Kumar Gupta)", 
+         fg="grey", bg="#121212", font=("Poppins", 8)).pack()
+
+tk.Label(footer_frame, text="Powered by AI Collaboration", 
+         fg="#00FFC8", bg="#121212", font=("Poppins", 7, "italic")).pack()
+
 root.mainloop()
