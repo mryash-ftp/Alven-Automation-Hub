@@ -95,7 +95,7 @@ def start_conversion():
 
 # --- UI SETUP (ALVEN DARK THEME) ---
 root = tk.Tk()
-root.title("Alven Exec-Forge V1.0")
+root.title("Alven Exec-Forge v1.0")
 root.geometry("500x520")
 root.configure(bg="#121212")
 
@@ -105,7 +105,7 @@ style.theme_use('default')
 style.configure("TProgressbar", thickness=8, background="#00FFC8", troughcolor="#333")
 
 # UI Components
-tk.Label(root, text="ALVEN PROJECT PACKER", font=("Orbitron", 18, "bold"), fg="#00FFC8", bg="#121212").pack(pady=20)
+tk.Label(root, text="Alven Exec-Forge", font=("Orbitron", 18, "bold"), fg="#00FFC8", bg="#121212").pack(pady=20)
 
 # Input Section
 tk.Button(root, text="SELECT PYTHON SCRIPT", command=browse_file, bg="#1e1e1e", fg="#00FFC8", font=("Poppins", 9, "bold"), bd=1, width=25).pack()
