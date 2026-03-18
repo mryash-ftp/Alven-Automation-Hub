@@ -23,4 +23,7 @@ The tool prevents Desktop clutter by organizing files as follows:
 `[YourFileName]_Build/` -> `Release_EXE/` (Final Output)
 
 ---
-*Developed by Alven Alex (Pradeep Kumar Gupta)*
+---
+**👨‍💻 Developer:** Alven Alex (Pradeep Kumar Gupta)  
+**🤖 Built with:** Python & AI-Assisted Engineering  
+*Driven by automation, optimized by Intelligence.*
