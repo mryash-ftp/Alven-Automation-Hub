@@ -95,7 +95,7 @@ def start_conversion():
 
 # --- UI SETUP (ALVEN DARK THEME) ---
 root = tk.Tk()
-root.title("Alven Project Packer v2.2")
+root.title("Alven Exec-Forge V1.0")
 root.geometry("500x520")
 root.configure(bg="#121212")
 
